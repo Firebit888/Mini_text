@@ -13,5 +13,8 @@
 3️⃣ Type the following command:
 
 
-bash´´
+```bash
+git clone https://github.com/Firebit888/Mini_text.git
+pip install colored
+cd mini_text
 python create_mini_txt.py
